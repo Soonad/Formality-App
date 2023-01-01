@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/maiavictor/formality-app",
   "devDependencies": {
-    "raw-loader": "^1.0.0",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "raw-loader": "^4.0.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "formality-lang": "^0.1.166",
